@@ -16,12 +16,12 @@ It includes features such as
 - `HighBP`,`HighChol
 - `Smoker`,`Stroke`, and more
 - The dataset contains both numerical and categorical data, some of which are encoded using binary values
--In features like Diabetes_binary,HighBP,HighChol,Cholcheck,Smoker,Stroke,Heart_disease_or_attack,
--PhysicalActivity,Fruits,Vegetables where there are only ones and zeros means (`1` = YES, `0`= NO)
--GenHealth(`1`= Execellent, `2`= VeryGood,`3`= Good,`4`= Fair,`5`= Poor)
--BMI(High-BMI(>=25) indicate overweight or obesity)
--Age(`1`= 18-24, `2`= 25-29, `3`=30-34, `4`=35-39, `5`=40-44, `6`=45-49, `7`=50-54, `8`=55-59, `9`=60-69, `10`=65-69, `11`=70-74, `12`=75-79,`13`=80-84)
--Income(low-income earners=(1,2,3,4), Middle_class earners(5,6,7), High-income earners(8))
+- In features like Diabetes_binary,HighBP,HighChol,Cholcheck,Smoker,Stroke,Heart_disease_or_attack,
+- PhysicalActivity,Fruits,Vegetables where there are only ones and zeros means (`1` = YES, `0`= NO)
+- GenHealth(`1`= Execellent, `2`= VeryGood,`3`= Good,`4`= Fair,`5`= Poor)
+- BMI(High-BMI(>=25) indicate overweight or obesity)
+- Age(`1`= 18-24, `2`= 25-29, `3`=30-34, `4`=35-39, `5`=40-44, `6`=45-49, `7`=50-54, `8`=55-59, `9`=60-69, `10`=65-69, `11`=70-74, `12`=75-79,`13`=80-84)
+- Income(low-income earners=(1,2,3,4), Middle_class earners(5,6,7), High-income earners(8))
 -Education(`1`=Never attended school, `2`=Elementary, `3`=Some high school, `4`=High school graduate, `5`=Some college, `6`=College Graduate)
 
  ## Key INSIGHTS
@@ -39,11 +39,11 @@ It includes features such as
  - Smokers(1) = 104,696(47.32%)
  - Heart_disease_or_attack(1) =23,664 (10.7%)
  - Stoke(1)= 10,280 (4.65%)
- -Heavy_alcohol_consumption(1) = 13,761 (6.22%)
- -Any_Healthcare(1) = 208,878 (94.41%)
- -No_doc_because of cost(1) = 21,291( 9.62%)
- -Difficult in walking(1) = 42.595(19.25%)
- -Sex(Male) = 123,256(55.71%) Female= 98000(44.29%)
+ - Heavy_alcohol_consumption(1) = 13,761 (6.22%)
+ - Any_Healthcare(1) = 208,878 (94.41%)
+ - No_doc_because of cost(1) = 21,291( 9.62%)
+ - Difficult in walking(1) = 42.595(19.25%)
+ - Sex(Male) = 123,256(55.71%) Female= 98000(44.29%)
 
   ## Files
   diabetes_cleaned_202507191859
