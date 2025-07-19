@@ -35,15 +35,15 @@ It includes features such as
  - High income earners have the most number of diabetic patients(6,994).
     
   ## Additinal Observation
-  total number of patients = 221,256
-  Smokers(1) = 104,696(47.32%)
-  Heart_disease_or_attack(1) =23,664 (10.7%)
-  Stoke(1)= 10,280 (4.65%)
-  Heavy_alcohol_consumption(1) = 13,761 (6.22%)
-  Any_Healthcare(1) = 208,878 (94.41%)
-  No_doc_because of cost(1) = 21,291( 9.62%)
-  Difficult in walking(1) = 42.595(19.25%)
-  Sex(Male) = 123,256(55.71%) Female= 98000(44.29%)
+ - total number of patients = 221,256
+ - Smokers(1) = 104,696(47.32%)
+ - Heart_disease_or_attack(1) =23,664 (10.7%)
+ - Stoke(1)= 10,280 (4.65%)
+ -Heavy_alcohol_consumption(1) = 13,761 (6.22%)
+ -Any_Healthcare(1) = 208,878 (94.41%)
+ -No_doc_because of cost(1) = 21,291( 9.62%)
+ -Difficult in walking(1) = 42.595(19.25%)
+ -Sex(Male) = 123,256(55.71%) Female= 98000(44.29%)
 
   ## Files
   diabetes_cleaned_202507191859
