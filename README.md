@@ -15,14 +15,14 @@ It includes features such as
 - `PhysicalActivity`
 - `HighBP`,`HighChol
 - `Smoker`,`Stroke`, and more
-  The dataset contains both numerical and categorical data, some of which are encoded using binary values
-  In features like Diabetes_binary,HighBP,HighChol,Cholcheck,Smoker,Stroke,Heart_disease_or_attack,
-  PhysicalActivity,Fruits,Vegetables where there are only ones and zeros means (`1` = YES, `0`= NO)
-  GenHealth(`1`= Execellent, `2`= VeryGood,`3`= Good,`4`= Fair,`5`= Poor)
-  BMI(High-BMI(>=25) indicate overweight or obesity)
-  Age(`1`= 18-24, `2`= 25-29, `3`=30-34, `4`=35-39, `5`=40-44, `6`=45-49, `7`=50-54, `8`=55-59, `9`=60-69, `10`=65-69, `11`=70-74, `12`=75-79,`13`=80-84)
-  Income(low-income earners=(1,2,3,4), Middle_class earners(5,6,7), High-income earners(8))
-  Education(`1`=Never attended school, `2`=Elementary, `3`=Some high school, `4`=High school graduate, `5`=Some college, `6`=College Graduate)
+- The dataset contains both numerical and categorical data, some of which are encoded using binary values
+-In features like Diabetes_binary,HighBP,HighChol,Cholcheck,Smoker,Stroke,Heart_disease_or_attack,
+-PhysicalActivity,Fruits,Vegetables where there are only ones and zeros means (`1` = YES, `0`= NO)
+-GenHealth(`1`= Execellent, `2`= VeryGood,`3`= Good,`4`= Fair,`5`= Poor)
+-BMI(High-BMI(>=25) indicate overweight or obesity)
+-Age(`1`= 18-24, `2`= 25-29, `3`=30-34, `4`=35-39, `5`=40-44, `6`=45-49, `7`=50-54, `8`=55-59, `9`=60-69, `10`=65-69, `11`=70-74, `12`=75-79,`13`=80-84)
+-Income(low-income earners=(1,2,3,4), Middle_class earners(5,6,7), High-income earners(8))
+-Education(`1`=Never attended school, `2`=Elementary, `3`=Some high school, `4`=High school graduate, `5`=Some college, `6`=College Graduate)
 
  ## Key INSIGHTS
  - 15.83% of the population has diabetes
